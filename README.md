@@ -1,2 +1,3 @@
 SQL-project
 This is a SQL End-to-End project 
+INDIA GENERAL ELECTIONS RESULT ANALYSIS 2024
